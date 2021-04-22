@@ -1,0 +1,25 @@
+.row {
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+}
+.col, .col2, .col3 {
+    height: 50px;
+    width: 300px;
+    margin: 10px;
+}
+.col {
+    color: white;
+    background-color: teal;
+    flex 1;
+}
+.col2 {
+    color: white;
+    background-color: teal;
+    flex: 2;
+}
+.col3 {
+    color: white;
+    background-color: teal;
+    flex: 3;
+}
