@@ -1,0 +1,50 @@
+.container {
+    height: 300px;
+    width: 400px;
+    background-color: white;
+    border-color: lightslategray;
+    border-width: 2px;
+    border-style: solid;
+}
+.nav {
+    background-color: mediumturquoise;
+    height: 80px;
+}
+.person {
+    height: 60px;
+    width: 60px;
+    position: absolute;
+    top: 60px;
+    left: 40px;
+}
+.maincontent {
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.location {
+    display: flex;
+}
+.map {
+    height: 15px;
+    width: 10px;
+    display: flex;
+}
+.losangeles {
+    align-items: center;
+    margin: 0;
+}
+.gear {
+    height: 15px;
+    width: 15px;
+}
+.edit {
+    text-decoration: underline;
+    margin: 0px;
+}
+.line1 {
+    border-right: black;
+}
+.section3 {
+    display: flex;
+}
+
