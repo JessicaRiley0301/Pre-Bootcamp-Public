@@ -1,0 +1,205 @@
+.nav {
+    background-color: black;
+    height: 75px;
+    display: flex;
+    padding-left: 200px;
+}
+.nav-title {
+    color: white;
+    align-content: center;
+}
+.nav-links {
+    display: flex;
+    width: max-content;
+}
+.active {
+    display: flex;
+    color: white;
+    margin: 15px;
+}
+.btn {
+    display: flex;
+    margin-left: 200px;
+    margin-top: 5px;
+    color: white;
+    background-color: rgb(47, 167, 167);
+    border-color: rgb(47, 167, 167);
+    height: 20px;
+    border-radius: 12px;
+    border-style: solid;
+}
+.columns {
+    display: flex;
+    vertical-align: 0px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.col1 {
+    background-color: white;
+    flex: 2;
+    margin: 20px;
+}
+.col2{
+    background-color: white;
+    flex: 1;
+    margin: 20px;
+}
+.container1 {
+    background-color: white;
+    outline: 2px solid grey;
+}
+.nav1 {
+    background-color: rgb(23, 136, 156);
+    height: 80px;
+}
+.person {
+    height: 60px;
+    width: 60px;
+    position: absolute;
+    top: 150px;
+    left: 250px;
+}
+.maincontent {
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.location {
+    display: flex;
+}
+.map {
+    height: 15px;
+    width: 10px;
+    display: flex;
+}
+.losangeles {
+    align-items: center;
+    margin: 0;
+}
+.gear {
+    height: 15px;
+    width: 15px;
+}
+.edit {
+    text-decoration: underline;
+    margin: 0px;
+}
+.line1 {
+    border-right: black;
+}
+.section3 {
+    display: flex;
+}
+.educationcont {
+    margin-top: 60px;
+    background-color: white;
+    height: 200px;
+    outline: 2px solid grey;
+}
+.nav2 {
+    background-color: rgb(51, 51, 51);
+    height: 35px;
+    display: flex;
+}
+.ed {
+    color: white;
+    margin-left: 20px;
+    margin-top: 7px;
+}
+.edbody {
+    padding-left: 20px;
+}
+.connectionrequest {
+    background-color: white;
+    outline: 2px solid grey;
+}
+.nav3 {
+    background-color: rgb(51, 51, 51);
+    height: 35px;
+    display: flex;
+}
+.nav3title {
+    color: white;
+    margin: 10px;
+}
+.num {
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+    background-color: lightgrey;
+}
+.connbody {
+    background-color: white;
+    padding: 20px;
+    height: fit-content;
+}
+.toddrow {
+    display: flex;
+    align-content: center;
+    justify-content: space-evenly;
+}
+.profile {
+    height: 25px;
+    width: 25px;
+    margin: 0px;
+}
+.name {
+    margin: 0px;
+}
+.circle {
+    height: 25px;
+    width: 25px;
+    margin: 0px;
+    justify-content: right;
+}
+.philrow {
+    display: flex;
+    align-content: center;
+    justify-content: space-evenly;
+    margin-top: 10px;
+}
+.yourconnections {
+    margin-top: 60px;
+    background-color: white;
+    height: 200px;
+    outline: 2px solid grey;
+}
+.nav4 {
+    background-color: rgb(51, 51, 51);
+    height: 35px;
+    display: flex;
+}
+.numcon {
+    border-radius: 50%;
+    width: 40px;
+    height: 25px;
+    background-color: lightgrey;
+    color: white;
+}
+.nav4title {
+    color: white;
+    margin: 10px;
+}
+.yourconnbody {
+    background-color: white;
+    padding: 20px;
+    outline: grey 2px solid;
+}
+.adrienrow, .annerow, .alaynerow, .arryy {
+    display: flex;
+    align-content: center;
+    justify-content: space-evenly;
+    margin-top: 10px;
+}
+.viewprofile {
+    background-color: white;
+    outline: grey 2px solid;
+    display: flex;
+    align-content: center;
+    height: auto;
+    width: auto;
+}
+.vptext {
+    margin-left: 20px;
+    color: blue;
+    text-decoration: underline;
+}
