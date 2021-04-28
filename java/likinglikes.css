@@ -1,0 +1,20 @@
+.container {
+    border: 2px black solid;
+    height: 130px;
+    width: 350px;
+    padding: 10px 20px;
+}
+.user {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.btnlike {
+    width: 60px;
+    height: 30px;
+    background-color: rgb(255,218,103);
+    box-shadow: 3px 3px black;
+}
+span {
+    font-size: 5mm;
+}
